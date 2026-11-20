@@ -14,12 +14,12 @@ css: custom.css
 
 ## University of Washington
 
-- [Certificate in Data Science Methods for Real-World Evidence in Health](https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-data-science-methods-for-real-world-evidence-in-health/) 
-  - Teaching Assistant | School of Pharmacy | Autumn 2026 | Prof. Louis Garrison, Prof. Douglas Barthold, & Leana de la Torre
+- [Certificate in Health Economics, Health Technology Assessment, and Market Access](https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-health-economics-health-technology-assessment-and-market-access/)
+  - Teaching Assistant | School of Pharmacy | HECON510: Principles Of Health Economics (Autumn 2026) | Prof. Louis Garrison, Prof. Douglas Barthold, & Leana de la Torre
 <!---  - Teaching Assistant | School of Pharmacy | Winter 2027 | -->
 
-- [Certificate in Health Economics, Health Technology Assessment, and Market Access](https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-health-economics-health-technology-assessment-and-market-access/)
-  - Teaching Assistant | School of Pharmacy | Autumn 2026 | Prof. Beth Devine, Leana de la Torre
+- [Certificate in Data Science Methods for Real-World Evidence in Health](https://sop.washington.edu/choice/graduate-education-training-programs/certificate-in-data-science-methods-for-real-world-evidence-in-health/) 
+  - Teaching Assistant | School of Pharmacy | HEORDS510: Principles Of Data Science And Healthcare Data (Autumn 2026) | Prof. Beth Devine & Leana de la Torre
 <!---  - Teaching Assistant | School of Pharmacy | Winter 2027 | -->
 
 - Special topic lecture: Regression methods for health care cost and resource utilization
